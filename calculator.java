@@ -7,6 +7,9 @@ public class calculator{
 	public static float substraction(float a,float b){
 		return a-b;
 	}
+	public static float multiplication(float a,float b){
+		return a*b;
+	}
 
 	public static void main(String []args){
 		System.out.println("welcome to calculator");
